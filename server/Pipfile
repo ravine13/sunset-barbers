@@ -7,6 +7,9 @@ name = "pypi"
 pymysql = "*"
 flask_sqlalchemy = "*"
 flask = "*"
+mysqlclient = "==2.0.3"
+flask-mysqldb = "*"
+python-dotenv = "*"
 
 [dev-packages]
 

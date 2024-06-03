@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "730f85b18ad15d32b18dbe04c06a19cbd063159c2449a5b91ab1eb58624ede45"
+            "sha256": "3b86522fcc4d54b81f010a7e7be06f1accad24fad36d5979608867a01735c503"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -40,6 +40,13 @@
             "index": "pypi",
             "markers": "python_version >= '3.8'",
             "version": "==3.0.3"
+        },
+        "flask-mysqldb": {
+            "hashes": [
+                "sha256:1c76e9dcc2c2f1f48981e3157c9423358f68a2cdf901a3baf5531c32b13c5826"
+            ],
+            "index": "pypi",
+            "version": "==1.0.1"
         },
         "flask-sqlalchemy": {
             "hashes": [
@@ -195,6 +202,18 @@
             "markers": "python_version >= '3.7'",
             "version": "==2.1.5"
         },
+        "mysqlclient": {
+            "hashes": [
+                "sha256:0ac0dd759c4ca02c35a9fedc24bc982cf75171651e8187c2495ec957a87dfff7",
+                "sha256:3381ca1a4f37ff1155fcfde20836b46416d66531add8843f6aa6d968982731c3",
+                "sha256:71c4b330cf2313bbda0307fc858cc9055e64493ba9bf28454d25cf8b3ee8d7f5",
+                "sha256:f6ebea7c008f155baeefe16c56cd3ee6239f7a5a9ae42396c2f1860f08a7c432",
+                "sha256:fc575093cf81b6605bed84653e48b277318b880dc9becf42dd47fa11ffd3e2b6"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.5'",
+            "version": "==2.0.3"
+        },
         "pymysql": {
             "hashes": [
                 "sha256:4de15da4c61dc132f4fb9ab763063e693d521a80fd0e87943b9a453dd4c19d6c",
@@ -203,6 +222,15 @@
             "index": "pypi",
             "markers": "python_version >= '3.7'",
             "version": "==1.1.1"
+        },
+        "python-dotenv": {
+            "hashes": [
+                "sha256:e324ee90a023d808f1959c46bcbc04446a10ced277783dc6ee09987c37ec10ca",
+                "sha256:f7b63ef50f1b690dddf550d03497b66d609393b40b564ed0d674909a68ebf16a"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.8'",
+            "version": "==1.0.1"
         },
         "sqlalchemy": {
             "hashes": [
