@@ -5,11 +5,27 @@ name = "pypi"
 
 [packages]
 pymysql = "*"
-flask_sqlalchemy = "*"
 flask = "*"
 mysqlclient = "==2.0.3"
 flask-mysqldb = "*"
 python-dotenv = "*"
+flask-migrate = "*"
+flask-sqlalchemy = "*"
+sqlalchemy = "*"
+flask-restful = "*"
+flask-marshmallow = "*"
+flask-cors = "*"
+marshmallow-sqlalchemy = "*"
+flask-bcrypt = "*"
+flask-jwt = "*"
+flask-jwt-extended = "*"
+cloudinary = "*"
+flask-wtf = "*"
+python-dateutil = "*"
+flask-mail = "*"
+api-jwt = "*"
+marshmallow = "*"
+requests = "*"
 
 [dev-packages]
 
